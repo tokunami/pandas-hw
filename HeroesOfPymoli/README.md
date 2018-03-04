@@ -2,9 +2,9 @@
 # Heroes of Pymoli Data Analysis
 
 ## three observable trends based on the data
-1. [User demographics] Early twenty player is the largest number(around 40%), late teen players are following (around 25%). Male players are more than 80%(N=612).
+1. [User demographics] Early twenty player is the largest number(around 40%), late teen players are following (around 25%). Male players are more than 80%(N=612).      
 ![png](graphs/output_8_1.png)
-2. [the number of Item(s) users have] User count and total purchase count are strongly positive coefficient. It is assumed that most users have only 1 item. It is also supported by that more than 60% of users bought only 1 item, 25% of users boutht 2 items(N=858).
+2. [the number of Item(s) users have] User count and total purchase count are strongly positive coefficient. It is assumed that most users have only 1 item. It is also supported by that more than 60% of users bought only 1 item, 25% of users boutht 2 items(N=858).        
 ![png](graphs/output_16_1.png)
 3. [Popular Item] No particular correlation between Item Price and the number of item sold.
 
